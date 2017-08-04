@@ -62,73 +62,7 @@ Serial.println(voltage);
   
  
   else if (voltage > 2 && voltage < 3)  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-    digitalWrite(orange, HIGH);
+  digitalWrite(orange, HIGH);
     digitalWrite(purple, HIGH);
   }
  
